@@ -8,7 +8,7 @@ Repo to use for tutorial on how we are using git in [ScholarSphere workflow](htt
 
 2. Clone repo onto local computer
 
-    ``git clone https://github.com/psu-stewardship/git-workflow-tutorial.git git-workflow-tutorial``
+    ``git clone https://github.com/psu-stewardship/git-workflow-tutorial.git``
 
 3. Change into working directory
 
