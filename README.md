@@ -1,4 +1,4 @@
-git-workflow-tutorial
+CAC git-workflow-tutorial
 =====================
 
 Repo to use for tutorial on how we are using git in [ScholarSphere workflow](https://github.com/psu-stewardship/scholarsphere/wiki/Git-branch-workflow)
